@@ -1,4 +1,5 @@
-We use a WebKit revision that has been used for a Chromium release.
+Currently we track the Chromium 12.0.742 release branch:
+http://trac.webkit.org/browser/branches/chromium/742
+which is WebKit trunk r84325 plus stability cherry picks.
 
-http://src.chromium.org/svn/releases/5.0.328.0/DEPS
-http://svn.webkit.org/repository/webkit/trunk@54731
+See also http://src.chromium.org/svn/releases/12.0.742.130/DEPS
